@@ -2,6 +2,13 @@
   "name": "orgchart",
   "version": "1.0.0",
   "description": "Extension for v4 / v5",
+  "contributors": [
+    {
+      "name": "Rustam Mukhametshin",
+      "email": "",
+      "url": ""
+    }
+  ],
   "main": "popup.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
